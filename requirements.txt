@@ -1,1 +1,2 @@
-pkg-resources==0.0.0
+pdfminer.six==20201018
+pandas~=1.1.5
